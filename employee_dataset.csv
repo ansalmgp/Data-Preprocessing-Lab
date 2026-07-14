@@ -1,0 +1,311 @@
+EmployeeID,Name,Age,Department,Gender,JoiningDate,City,Salary,YearsExperience,PerformanceScore,Attrition
+1,Employee_280,23.0,IT,M,19-07-2019,seattle ,64977.66,5.1,3.0,No
+2,Employee_103,31.0,HR,M,16-08-2023,Seattle,60424.78,7.0,3.0,Yes
+3,Employee_172,41.0,Marketing,female,19-04-2020,,50581.07,5.9,2.0,No
+4,Employee_171,31.0,IT,female,24-06-2019,Seattle,69688.77,0.6,3.0,No
+5,Employee_74,43.0,Finance,Male,16-04-2018,Boston,40633.13,7.0,5.0,No
+6,Employee_265,32.0,Marketing,Male,13-09-2021,Seattle,50735.22,5.6,4.0,Yes
+7,Employee_133,,Sales,Female,26-08-2020,Seattle,73106.75,8.1,3.0,No
+8,Employee_160,27.0,HR,F,28-01-2022,Austin,72360.22,1.0,3.0,No
+9,Employee_38,23.0,HR,female,17-03-2022,seattle ,47630.23,1.3,3.0,No
+10,Employee_82,28.0,IT,Male,21-06-2018,Seattle,51257.99,8.2,1.0,No
+11,Employee_275,32.0,HR,MALE,19-06-2016,NEW YORK,41097.53,5.7,2.0,No
+12,Employee_61,22.0,IT,female,01-05-2015,,52451.44,6.5,3.0,No
+13,Employee_228,50.0,Sales,Female,14-01-2022,boston,55927.13,9.3,4.0,Yes
+14,Employee_276,27.0,HR,M,14-09-2016,Boston,65665.91,5.1,5.0,No
+15,Employee_67,25.0,HR,male,06-04-2025,New york ,73892.66,0.9,3.0,No
+16,Employee_130,45.0,Sales,F,27-12-2019,austin,83510.3,7.0,4.0,No
+17,Employee_139,,Finance,Male,20-05-2023,boston,55175.47,4.0,4.0,No
+18,Employee_58,49.0,IT,FEMALE,28-05-2024,Boston,81665.08,0.0,3.0,No
+19,Employee_89,32.0,Sales,MALE,26-03-2024,NEW YORK,34372.45,0.8,3.0,No
+20,Employee_186,30.0,Sales,male,14-10-2022,Austin,414498.60000000003,1.3,5.0,No
+21,Employee_123,33.0,IT,Male,20-04-2016,CHICAGO ,58653.96,7.1,2.0,No
+22,Employee_85,39.0,Sales,Male,23-03-2018,New york ,39905.57,5.5,3.0,No
+23,Employee_262,37.0,Sales,female,25-09-2023,Chicago,44506.96,7.9,2.0,Yes
+24,Employee_4,45.0,HR,male,25-02-2020,new york,87784.17,3.2,2.0,Yes
+25,Employee_90,,HR,female,28-10-2024,boston,66304.87,,5.0,Yes
+26,Employee_285,37.0,IT,M,21-05-2024,Boston,194370.36000000002,0.7,4.0,No
+27,Employee_278,,Finance,female,08-09-2018,NEW YORK,49210.2,0.0,4.0,No
+28,Employee_129,29.0,Finance,female,26-02-2023,chicago,69771.14,12.2,3.0,No
+29,Employee_156,34.0,HR,MALE,12-06-2017,new york,43087.43,4.3,2.0,No
+30,Employee_177,22.0,HR,F,09-12-2024,austin,82067.55,0.2,4.0,No
+31,Employee_31,47.0,Finance,female,26-10-2017,seattle ,29622.86,6.9,4.0,No
+32,Employee_91,34.0,HR,M,30-06-2018,CHICAGO ,67910.76,7.6,,No
+33,Employee_15,28.0,Sales,female,10-07-2020,Boston,78555.24,4.7,4.0,No
+34,Employee_116,30.0,Finance,F,06-08-2021,Chicago,61349.34,5.1,3.0,No
+35,Employee_115,39.0,Finance,male,14-10-2020,,63444.42,4.7,1.0,No
+36,Employee_162,31.0,Sales,Female,18-02-2025,chicago,52510.54,0.0,2.0,Yes
+37,Employee_149,22.0,Finance,Female,16-12-2022,Seattle,75338.56,0.1,4.0,No
+38,Employee_224,47.0,Marketing,Female,03-02-2018,,55555.99,,3.0,No
+39,Employee_140,46.0,Finance,female,03-12-2015,Boston,69438.73,1.3,,Yes
+40,Employee_66,36.0,Finance,MALE,28-12-2019,New York,54134.49,0.0,4.0,No
+41,Employee_3,39.0,IT,FEMALE,20-10-2024,AUSTIN,52123.16,,1.0,No
+42,Employee_227,33.0,Finance,Male,19-04-2018,New York,69799.25,6.9,3.0,No
+43,Employee_284,36.0,IT,male,11-08-2021,Austin,38048.91,15.5,3.0,Yes
+44,Employee_290,40.0,Marketing,Male,21-02-2021,AUSTIN,26886.54,7.9,3.0,Yes
+45,Employee_128,30.0,HR,Female,18-05-2021,CHICAGO ,73204.44,,4.0,No
+46,Employee_74,43.0,Finance,Male,16-04-2018,Boston,40633.13,7.0,5.0,No
+47,Employee_221,25.0,IT,M,08-09-2020,new york,34426.82,5.5,4.0,No
+48,Employee_246,34.0,Finance,FEMALE,27-07-2017,New York,32915.92,12.9,2.0,No
+49,Employee_178,30.0,Sales,FEMALE,19-08-2017,New York,54303.64,4.4,5.0,No
+50,Employee_283,27.0,Finance,Male,18-06-2019,CHICAGO ,67043.58,1.7,,Yes
+51,Employee_71,27.0,Marketing,Female,19-04-2025,Boston,47093.8,,2.0,No
+52,Employee_269,,IT,Male,11-12-2018,Boston,,2.0,1.0,No
+53,Employee_299,36.0,Sales,Male,15-02-2019,Boston,67380.28,6.3,3.0,Yes
+54,Employee_100,22.0,Sales,Female,22-03-2023,Boston,51083.03,8.0,5.0,No
+55,Employee_102,38.0,Finance,Male,25-05-2025,boston,61735.27,4.1,3.0,No
+56,Employee_92,33.0,IT,male,14-04-2017,Austin,78774.77,3.1,4.0,No
+57,Employee_256,37.0,Sales,male,01-12-2017,New york ,,4.3,4.0,No
+58,Employee_169,27.0,IT,Male,02-07-2019,new york,60849.75,4.4,5.0,No
+59,Employee_19,33.0,HR,FEMALE,02-05-2024,Boston,35887.75,,,No
+60,Employee_81,27.0,Marketing,male,18-09-2023,seattle ,50588.72,8.9,2.0,No
+61,Employee_75,32.0,HR,Female,27-08-2020,Boston,64903.91,10.0,3.0,No
+62,Employee_240,38.0,HR,FEMALE,21-01-2021,Boston,72162.12,4.6,3.0,No
+63,Employee_56,37.0,Sales,MALE,23-09-2018,Boston,43130.37,7.1,4.0,Yes
+64,Employee_151,,Finance,MALE,18-12-2017,Boston,59494.7,6.7,3.0,No
+65,Employee_207,31.0,HR,female,01-03-2016,new york,47360.7,8.4,4.0,No
+66,Employee_232,51.0,Marketing,MALE,23-04-2015,New York,61295.51,8.1,3.0,No
+67,Employee_223,39.0,IT,Male,06-09-2019,boston,68540.39,11.2,4.0,No
+68,Employee_239,27.0,Sales,Female,18-03-2023,new york,42095.45,10.3,3.0,No
+69,Employee_241,23.0,Sales,F,06-11-2024,Austin,53936.74,5.1,4.0,No
+70,Employee_23,25.0,Sales,male,26-07-2021,AUSTIN,58843.47,2.6,,No
+71,Employee_146,29.0,IT,Male,02-02-2018,chicago,54128.62,7.4,,No
+72,Employee_259,36.0,IT,M,27-09-2021,Seattle,60898.99,1.3,3.0,Yes
+73,Employee_254,39.0,HR,M,25-09-2018,seattle ,66105.78,2.7,3.0,No
+74,Employee_174,37.0,IT,female,02-08-2017,boston,42565.39,3.8,5.0,Yes
+75,Employee_281,34.0,HR,FEMALE,22-06-2022,chicago,,5.1,3.0,No
+76,Employee_98,22.0,IT,MALE,29-04-2015,CHICAGO ,62685.55,5.3,3.0,No
+77,Employee_298,21.0,IT,female,03-07-2023,AUSTIN,,0.4,4.0,No
+78,Employee_226,33.0,Sales,MALE,16-08-2017,AUSTIN,80897.4,6.1,4.0,No
+79,Employee_263,33.0,Marketing,Female,23-10-2024,Austin,63114.74,1.8,5.0,No
+80,Employee_105,90.0,Sales,Female,22-10-2019,,75152.05,10.1,3.0,No
+81,Employee_182,40.0,HR,MALE,20-02-2017,Austin,79667.38,6.8,3.0,Yes
+82,Employee_95,34.0,HR,Female,11-02-2015,seattle ,75437.33,0.0,3.0,Yes
+83,Employee_244,31.0,IT,male,28-01-2020,boston,,0.2,2.0,Yes
+84,Employee_25,30.0,Sales,male,16-11-2023,austin,67098.56,7.1,5.0,No
+85,Employee_87,49.0,HR,M,27-01-2016,new york,51543.5,10.8,4.0,No
+86,Employee_279,28.0,Marketing,female,09-07-2015,chicago,56988.76,4.8,3.0,No
+87,Employee_155,33.0,Sales,Male,13-08-2022,chicago,35726.84,5.8,3.0,No
+88,Employee_63,99.0,Sales,Female,16-06-2017,Boston,60356.27,2.7,5.0,No
+89,Employee_287,30.0,IT,female,04-03-2019,Seattle,73187.64,5.5,4.0,No
+90,Employee_79,41.0,Finance,M,23-12-2024,seattle ,70771.48,11.0,4.0,No
+91,Employee_112,21.0,Sales,male,11-07-2022,Seattle,41139.9,0.0,3.0,No
+92,Employee_51,22.0,HR,FEMALE,12-04-2019,austin,52576.6,2.7,3.0,No
+93,Employee_175,35.0,Marketing,male,25-01-2017,seattle ,74028.57,1.4,4.0,Yes
+94,Employee_127,30.0,HR,Female,04-03-2022,Austin,44975.7,3.0,3.0,No
+95,Employee_126,37.0,IT,Female,10-03-2017,New York,60714.05,4.0,3.0,No
+96,Employee_164,29.0,HR,Female,09-08-2018,seattle ,42382.65,3.0,3.0,No
+97,Employee_53,41.0,HR,M,19-10-2022,Boston,65109.23,3.7,3.0,No
+98,Employee_62,39.0,Marketing,female,30-05-2015,New york ,25757.96,5.2,4.0,No
+99,Employee_286,43.0,Finance,F,19-01-2021,AUSTIN,70294.78,3.8,5.0,No
+100,Employee_194,26.0,HR,female,09-05-2018,austin,83436.89,9.8,1.0,No
+101,Employee_29,28.0,IT,FEMALE,23-02-2021,austin,94719.88,,3.0,Yes
+102,Employee_70,35.0,IT,MALE,06-07-2020,CHICAGO ,69579.35,2.3,4.0,No
+103,Employee_37,27.0,IT,female,07-06-2021,New York,51824.44,2.4,1.0,No
+104,Employee_41,41.0,IT,Male,11-02-2015,new york,,5.1,,No
+105,Employee_154,35.0,Sales,F,13-03-2024,Austin,68149.47,,4.0,No
+106,Employee_12,40.0,IT,Female,12-06-2019,CHICAGO ,55085.07,2.9,3.0,No
+107,Employee_148,39.0,IT,female,25-12-2023,boston,,2.9,3.0,No
+108,Employee_295,39.0,Sales,Female,02-08-2022,NEW YORK,72241.09,8.0,4.0,No
+109,Employee_257,21.0,IT,male,10-05-2022,boston,60018.08,5.6,4.0,Yes
+110,Employee_291,38.0,Marketing,F,30-04-2019,new york,76604.86,4.5,4.0,No
+111,Employee_214,31.0,HR,F,25-07-2023,Boston,,3.2,1.0,No
+112,Employee_119,34.0,HR,F,09-02-2022,chicago,58034.42,3.4,4.0,No
+113,Employee_99,28.0,IT,male,02-05-2022,AUSTIN,40979.68,11.9,3.0,No
+114,Employee_173,35.0,Sales,FEMALE,19-03-2019,Seattle,67059.04,1.9,,No
+115,Employee_47,27.0,IT,male,04-01-2025,Boston,79067.07,4.9,,No
+116,Employee_142,,Finance,female,23-12-2015,,44198.77,6.8,5.0,No
+117,Employee_128,30.0,HR,Female,18-05-2021,CHICAGO ,73204.44,,4.0,No
+118,Employee_200,33.0,Finance,MALE,05-08-2015,Austin,61822.58,6.1,2.0,No
+119,Employee_218,40.0,IT,MALE,15-01-2015,Boston,64459.64,3.5,3.0,No
+120,Employee_109,28.0,Sales,FEMALE,16-12-2024,,58076.83,6.8,1.0,No
+121,Employee_107,,Finance,Female,09-06-2015,Seattle,44908.26,2.6,3.0,Yes
+122,Employee_211,32.0,Marketing,MALE,20-05-2021,NEW YORK,90297.57,7.9,2.0,No
+123,Employee_297,21.0,Sales,M,06-06-2024,AUSTIN,79371.05,6.5,3.0,Yes
+124,Employee_16,22.0,Finance,Male,04-08-2021,boston,80760.24,2.6,4.0,No
+125,Employee_114,38.0,Sales,FEMALE,28-01-2022,boston,67609.11,7.5,4.0,No
+126,Employee_8,37.0,Sales,MALE,24-02-2021,austin,43141.52,9.4,4.0,No
+127,Employee_271,41.0,IT,FEMALE,14-05-2016,New york ,,3.3,3.0,No
+128,Employee_147,21.0,Marketing,F,16-08-2019,New york ,93182.87,8.2,3.0,Yes
+129,Employee_217,27.0,Sales,female,01-09-2018,Seattle,,0.0,4.0,No
+130,Employee_208,39.0,IT,MALE,22-11-2022,Boston,54559.26,7.5,3.0,No
+131,Employee_9,38.0,IT,M,09-06-2020,NEW YORK,82431.51,,3.0,No
+132,Employee_28,39.0,IT,Female,16-02-2019,Chicago,67424.93,1.5,2.0,Yes
+133,Employee_274,33.0,Finance,Male,06-12-2019,,35352.17,4.7,4.0,Yes
+134,Employee_59,21.0,Sales,male,03-06-2018,austin,65760.98,4.8,3.0,No
+135,Employee_203,30.0,HR,F,23-02-2020,boston,67310.4,7.8,4.0,No
+136,Employee_161,43.0,HR,female,17-12-2024,boston,49424.82,6.3,3.0,No
+137,Employee_235,36.0,HR,female,14-05-2024,chicago,62900.94,8.3,3.0,No
+138,Employee_32,33.0,HR,male,20-10-2016,seattle ,72986.33,6.5,3.0,No
+139,Employee_2,39.0,Finance,MALE,27-06-2015,Chicago,53583.11,5.1,,No
+140,Employee_289,31.0,Sales,F,13-05-2020,boston,50205.63,8.1,,No
+141,Employee_14,38.0,Sales,Female,30-05-2022,Austin,47662.66,2.5,4.0,Yes
+142,Employee_10,34.0,HR,M,27-03-2022,Austin,74417.61,4.8,3.0,Yes
+143,Employee_288,,HR,FEMALE,06-03-2021,AUSTIN,48109.59,3.0,3.0,Yes
+144,Employee_96,35.0,Sales,FEMALE,20-09-2023,boston,94469.38,4.7,3.0,No
+145,Employee_35,32.0,Sales,female,26-10-2024,Seattle,89003.14,7.3,4.0,No
+146,Employee_97,33.0,HR,Male,13-09-2018,chicago,50827.23,2.7,3.0,No
+147,Employee_190,34.0,HR,Female,12-09-2018,Boston,81697.56,7.2,2.0,No
+148,Employee_293,27.0,Finance,MALE,14-02-2023,seattle ,87032.47,5.7,2.0,No
+149,Employee_272,29.0,Marketing,male,15-06-2018,CHICAGO ,52977.26,1.6,3.0,No
+150,Employee_242,32.0,HR,F,28-03-2018,austin,56861.67,,3.0,No
+151,Employee_195,38.0,IT,female,01-06-2018,,20000.0,7.0,2.0,No
+152,Employee_46,21.0,Sales,female,03-05-2022,seattle ,87911.67,4.5,3.0,No
+153,Employee_215,35.0,Marketing,Female,17-05-2024,Boston,64289.77,4.3,5.0,No
+154,Employee_33,33.0,HR,Male,01-07-2015,New york ,48185.97,11.7,4.0,No
+155,Employee_78,34.0,HR,Female,23-07-2016,new york,,,4.0,No
+156,Employee_236,26.0,IT,F,25-03-2021,NEW YORK,79904.53,9.0,4.0,No
+157,Employee_134,37.0,Sales,male,22-05-2019,austin,59422.37,8.2,5.0,No
+158,Employee_145,29.0,Sales,MALE,17-12-2022,New York,50934.92,5.6,4.0,No
+159,Employee_157,24.0,Sales,FEMALE,29-07-2021,Seattle,68381.11,2.8,3.0,Yes
+160,Employee_64,34.0,HR,F,28-04-2020,seattle ,45180.96,7.6,4.0,No
+161,Employee_83,21.0,Sales,female,30-06-2024,CHICAGO ,62420.3,0.0,1.0,No
+162,Employee_237,35.0,IT,MALE,24-04-2025,New York,63148.68,1.8,4.0,No
+163,Employee_229,25.0,Finance,male,27-03-2019,Austin,65298.11,2.2,3.0,No
+164,Employee_238,43.0,Sales,Male,29-05-2023,AUSTIN,48469.71,4.4,5.0,No
+165,Employee_42,29.0,Finance,female,13-11-2015,NEW YORK,,4.4,3.0,Yes
+166,Employee_185,28.0,HR,FEMALE,22-12-2017,new york,63157.06,4.0,,No
+167,Employee_165,47.0,Sales,female,28-04-2025,Boston,72544.86,1.6,3.0,No
+168,Employee_110,28.0,Marketing,M,07-08-2016,seattle ,51438.81,9.3,4.0,No
+169,Employee_180,33.0,Sales,MALE,28-09-2015,,53177.7,5.7,2.0,Yes
+170,Employee_222,,IT,MALE,06-12-2023,Austin,62857.5,6.0,3.0,No
+171,Employee_122,25.0,Finance,FEMALE,13-12-2015,CHICAGO ,62313.71,1.4,3.0,No
+172,Employee_52,,Marketing,Male,24-07-2024,seattle ,69733.4,4.6,3.0,Yes
+173,Employee_57,28.0,HR,female,01-03-2023,chicago,51551.12,7.7,3.0,No
+174,Employee_270,28.0,Sales,F,11-03-2021,austin,57134.58,0.0,3.0,Yes
+175,Employee_159,21.0,Finance,female,21-09-2015,boston,43488.31,6.7,3.0,No
+176,Employee_86,33.0,IT,male,29-11-2019,boston,51797.12,3.3,1.0,No
+177,Employee_121,21.0,HR,M,31-01-2017,austin,77452.28,3.3,,No
+178,Employee_294,34.0,IT,Male,24-11-2022,chicago,71894.02,0.2,4.0,Yes
+179,Employee_296,31.0,Sales,Male,20-08-2016,CHICAGO ,53104.04,3.9,4.0,Yes
+180,Employee_209,34.0,Marketing,Male,09-08-2020,austin,59084.35,4.9,5.0,No
+181,Employee_247,23.0,IT,Female,14-01-2021,chicago,60916.73,2.4,3.0,Yes
+182,Employee_213,34.0,IT,female,12-05-2018,seattle ,44134.27,3.4,4.0,No
+183,Employee_88,21.0,IT,male,27-09-2023,chicago,,9.2,5.0,No
+184,Employee_166,32.0,HR,male,16-07-2020,AUSTIN,70209.87,11.6,4.0,No
+185,Employee_243,26.0,Marketing,M,11-01-2025,chicago,52892.41,6.3,3.0,No
+186,Employee_189,41.0,Sales,female,07-01-2017,Seattle,68086.98,5.7,3.0,No
+187,Employee_106,30.0,IT,FEMALE,22-02-2019,Seattle,50244.44,12.8,3.0,Yes
+188,Employee_245,36.0,HR,FEMALE,31-12-2017,,77596.87,4.0,5.0,No
+189,Employee_183,38.0,Finance,male,09-03-2016,New York,48284.69,4.8,3.0,No
+190,Employee_50,34.0,IT,female,15-12-2016,NEW YORK,287253.18,11.6,3.0,No
+191,Employee_266,29.0,Marketing,M,11-01-2015,Austin,47492.47,,4.0,No
+192,Employee_6,33.0,Finance,FEMALE,07-02-2021,Austin,69887.86,6.4,3.0,No
+193,Employee_18,27.0,Finance,FEMALE,25-08-2022,New York,60984.74,8.7,4.0,No
+194,Employee_249,32.0,HR,Male,03-03-2021,Boston,67856.4,4.7,2.0,No
+195,Employee_117,40.0,IT,male,17-03-2023,boston,42218.7,4.3,4.0,No
+196,Employee_243,26.0,Marketing,M,11-01-2025,chicago,52892.41,6.3,3.0,No
+197,Employee_107,,Finance,Female,09-06-2015,Seattle,44908.26,2.6,3.0,Yes
+198,Employee_188,36.0,IT,MALE,23-12-2015,Seattle,63659.46,2.4,,No
+199,Employee_163,48.0,Finance,male,06-08-2023,Austin,62880.74,6.2,2.0,No
+200,Employee_135,27.0,IT,MALE,21-03-2019,chicago,52656.91,0.0,4.0,No
+201,Employee_250,33.0,Marketing,male,13-11-2017,austin,64201.82,3.9,4.0,No
+202,Employee_191,34.0,Finance,female,05-10-2023,austin,71607.49,6.0,4.0,No
+203,Employee_65,25.0,Marketing,F,30-09-2023,chicago,48433.7,4.3,3.0,Yes
+204,Employee_27,34.0,HR,male,20-01-2018,CHICAGO ,76245.77,6.7,,No
+205,Employee_231,39.0,Sales,Female,10-09-2024,,67202.19,3.3,3.0,No
+206,Employee_170,,Finance,F,06-10-2021,Chicago,68998.93,1.4,4.0,No
+207,Employee_181,33.0,Marketing,female,19-09-2020,Austin,50836.65,4.9,3.0,No
+208,Employee_101,36.0,Sales,FEMALE,15-03-2025,austin,72072.05,8.9,4.0,No
+209,Employee_198,26.0,IT,M,05-10-2023,Seattle,36079.45,3.6,4.0,No
+210,Employee_210,26.0,Finance,F,01-04-2023,,38425.83,5.3,3.0,No
+211,Employee_136,36.0,HR,female,28-07-2017,austin,55627.65,6.0,3.0,No
+212,Employee_292,25.0,HR,Female,10-11-2018,chicago,68694.65,7.6,2.0,No
+213,Employee_268,46.0,Marketing,MALE,09-01-2021,seattle ,54901.28,5.4,3.0,Yes
+214,Employee_199,38.0,Sales,Female,06-08-2015,seattle ,61498.58,9.3,1.0,No
+215,Employee_118,29.0,Finance,Female,09-08-2015,CHICAGO ,74653.49,7.3,3.0,Yes
+216,Employee_167,23.0,IT,M,01-09-2021,,44451.36,,,No
+217,Employee_260,33.0,Sales,FEMALE,27-10-2019,chicago,72272.81,11.2,3.0,No
+218,Employee_137,22.0,Sales,male,13-02-2021,austin,75705.14,8.2,1.0,No
+219,Employee_30,,Finance,male,28-10-2017,chicago,66390.39,0.0,4.0,No
+220,Employee_80,42.0,HR,Female,24-01-2016,boston,45952.29,7.6,3.0,No
+221,Employee_205,26.0,Sales,MALE,14-05-2017,new york,67049.97,4.5,5.0,No
+222,Employee_141,45.0,IT,Female,05-06-2020,austin,61016.3,4.4,3.0,No
+223,Employee_158,85.0,Sales,Male,16-07-2022,CHICAGO ,88447.42,3.1,3.0,Yes
+224,Employee_132,31.0,Sales,female,12-02-2017,Boston,52887.39,0.9,3.0,No
+225,Employee_40,27.0,HR,FEMALE,27-01-2022,NEW YORK,76065.62,5.5,3.0,No
+226,Employee_179,33.0,Finance,FEMALE,24-07-2016,Boston,50392.6,7.4,3.0,No
+227,Employee_206,45.0,IT,Female,16-01-2020,NEW YORK,61292.16,2.5,3.0,No
+228,Employee_216,28.0,Sales,female,29-05-2022,seattle ,74890.33,3.5,2.0,No
+229,Employee_233,29.0,IT,male,08-09-2017,,68687.67,1.6,4.0,No
+230,Employee_55,33.0,Sales,male,05-07-2017,Seattle,73862.29,7.4,3.0,No
+231,Employee_300,28.0,HR,MALE,20-03-2020,New york ,75223.78,0.5,4.0,Yes
+232,Employee_201,26.0,Finance,female,06-09-2015,Boston,55442.54,2.2,4.0,No
+233,Employee_44,,IT,MALE,22-09-2023,boston,67440.96,7.7,4.0,No
+234,Employee_264,39.0,Finance,male,14-10-2023,Boston,51676.92,5.2,5.0,No
+235,Employee_49,35.0,Marketing,MALE,24-09-2019,boston,94136.42,5.2,4.0,No
+236,Employee_36,34.0,Finance,FEMALE,04-09-2020,boston,41432.77,9.8,3.0,No
+237,Employee_60,31.0,IT,M,06-08-2018,Boston,45901.8,6.1,2.0,No
+238,Employee_144,31.0,Sales,M,28-08-2016,Austin,87230.59,7.5,3.0,No
+239,Employee_54,31.0,IT,Male,03-08-2015,Boston,46480.59,0.0,3.0,No
+240,Employee_21,37.0,IT,female,14-12-2017,New york ,68503.41,10.4,5.0,No
+241,Employee_125,25.0,Marketing,male,11-06-2024,New york ,78227.33,9.9,5.0,No
+242,Employee_143,33.0,Marketing,M,08-12-2020,Chicago,96051.23,6.1,4.0,Yes
+243,Employee_111,21.0,Marketing,Male,13-11-2023,Seattle,57285.14,2.4,1.0,Yes
+244,Employee_255,28.0,IT,M,03-11-2022,new york,67725.64,,2.0,No
+245,Employee_77,37.0,Finance,male,06-06-2022,boston,52547.11,8.0,3.0,No
+246,Employee_282,35.0,Sales,M,28-02-2023,Boston,,5.9,4.0,No
+247,Employee_273,33.0,HR,FEMALE,07-10-2019,Austin,62600.12,5.2,,No
+248,Employee_108,24.0,Sales,FEMALE,12-11-2019,New York,56790.17,8.0,5.0,No
+249,Employee_94,22.0,Sales,F,11-03-2022,new york,56664.08,1.9,5.0,No
+250,Employee_13,22.0,Sales,FEMALE,01-10-2016,Boston,43556.01,13.8,3.0,No
+251,Employee_17,37.0,Sales,male,04-06-2023,New york ,43548.72,6.3,4.0,No
+252,Employee_48,37.0,Sales,male,13-10-2020,New york ,55704.8,9.1,5.0,No
+253,Employee_187,34.0,Finance,female,30-09-2023,boston,52070.75,3.0,3.0,No
+254,Employee_204,99.0,Marketing,Female,01-05-2021,Boston,96221.86,1.0,5.0,No
+255,Employee_267,29.0,Marketing,MALE,30-03-2017,Chicago,54441.14,6.4,4.0,No
+256,Employee_120,21.0,HR,M,20-03-2022,seattle ,57333.9,1.3,4.0,No
+257,Employee_22,30.0,HR,Male,28-09-2022,boston,59620.69,1.0,3.0,No
+258,Employee_84,37.0,Sales,MALE,16-04-2017,,,8.1,3.0,No
+259,Employee_131,36.0,IT,Female,18-05-2017,Austin,104475.16,8.4,4.0,No
+260,Employee_230,31.0,HR,female,09-05-2021,New York,28982.18,4.3,2.0,No
+261,Employee_214,31.0,HR,F,25-07-2023,Boston,,3.2,1.0,No
+262,Employee_124,42.0,Finance,Female,21-02-2021,new york,45069.67,6.3,3.0,No
+263,Employee_34,45.0,IT,Male,12-02-2020,seattle ,,4.3,2.0,No
+264,Employee_5,33.0,Sales,FEMALE,24-01-2023,austin,40077.21,0.0,5.0,No
+265,Employee_20,33.0,IT,M,11-02-2023,New York,64454.77,6.6,4.0,No
+266,Employee_220,45.0,Marketing,female,13-08-2015,seattle ,64502.33,4.4,4.0,No
+267,Employee_177,22.0,HR,F,09-12-2024,austin,82067.55,0.2,4.0,No
+268,Employee_150,49.0,HR,Male,28-09-2015,AUSTIN,78927.31,4.2,4.0,No
+269,Employee_225,34.0,Sales,FEMALE,28-10-2015,,73537.04,7.7,2.0,No
+270,Employee_248,35.0,IT,F,15-02-2018,Seattle,50188.8,6.9,4.0,No
+271,Employee_277,30.0,Sales,female,13-07-2016,NEW YORK,64950.98,0.0,2.0,Yes
+272,Employee_152,25.0,Finance,female,21-04-2019,boston,71596.25,9.5,3.0,Yes
+273,Employee_234,,Sales,MALE,15-08-2015,seattle ,62201.9,3.6,3.0,No
+274,Employee_11,30.0,Marketing,Female,12-05-2023,Boston,67521.72,3.7,4.0,No
+275,Employee_72,29.0,HR,Male,10-02-2016,Austin,50933.78,12.2,4.0,No
+276,Employee_253,40.0,Finance,F,09-07-2021,Seattle,57971.19,4.4,3.0,No
+277,Employee_93,31.0,Finance,FEMALE,19-09-2022,new york,59035.61,6.0,3.0,No
+278,Employee_193,40.0,Marketing,female,06-09-2021,seattle ,62716.75,,3.0,Yes
+279,Employee_258,26.0,HR,F,16-01-2018,Chicago,54914.32,6.3,3.0,No
+280,Employee_124,42.0,Finance,Female,21-02-2021,new york,45069.67,6.3,3.0,No
+281,Employee_196,37.0,HR,MALE,14-08-2021,Austin,68651.37,,3.0,No
+282,Employee_138,29.0,Finance,M,16-08-2023,Seattle,40755.12,5.2,3.0,No
+283,Employee_261,27.0,Marketing,M,10-03-2019,Austin,68343.26,9.7,3.0,Yes
+284,Employee_39,27.0,IT,Female,21-04-2025,seattle ,68276.06,7.6,4.0,No
+285,Employee_202,42.0,IT,F,12-08-2018,austin,258207.59999999998,5.3,3.0,No
+286,Employee_190,34.0,HR,Female,12-09-2018,Boston,81697.56,7.2,2.0,No
+287,Employee_252,39.0,IT,M,29-03-2019,boston,63348.58,8.2,5.0,No
+288,Employee_113,32.0,Marketing,Female,28-08-2020,Austin,62270.54,8.1,4.0,No
+289,Employee_184,29.0,Finance,F,29-11-2018,CHICAGO ,46375.47,5.7,2.0,No
+290,Employee_153,27.0,IT,Male,02-06-2019,austin,51498.07,2.3,5.0,Yes
+291,Employee_192,39.0,IT,F,03-03-2021,seattle ,54005.46,10.2,4.0,No
+292,Employee_45,32.0,HR,male,28-02-2024,new york,66682.6,1.5,4.0,No
+293,Employee_276,27.0,HR,M,14-09-2016,Boston,65665.91,5.1,5.0,No
+294,Employee_7,36.0,Finance,Male,24-09-2018,Austin,73414.98,7.7,2.0,Yes
+295,Employee_251,31.0,Finance,male,21-12-2017,NEW YORK,63829.1,6.2,3.0,No
+296,Employee_76,30.0,IT,F,06-04-2023,boston,77156.31,0.6,2.0,No
+297,Employee_1,24.0,Finance,MALE,20-03-2015,Seattle,64185.62,6.0,,No
+298,Employee_69,33.0,Sales,MALE,17-07-2023,Boston,59868.14,7.7,4.0,No
+299,Employee_168,41.0,Sales,MALE,18-08-2023,seattle ,64525.84,1.9,4.0,No
+300,Employee_219,38.0,Sales,F,19-03-2017,,61895.69,1.0,3.0,Yes
+301,Employee_43,37.0,Finance,Male,05-08-2019,New york ,49512.8,7.0,3.0,No
+302,Employee_73,33.0,Finance,Female,15-06-2016,austin,67320.66,5.3,4.0,No
+303,Employee_24,34.0,Sales,Female,03-04-2015,AUSTIN,,,3.0,No
+304,Employee_186,30.0,Sales,male,14-10-2022,Austin,414498.60000000003,1.3,5.0,No
+305,Employee_104,,IT,F,06-09-2015,Austin,79168.9,1.9,4.0,No
+306,Employee_212,21.0,IT,female,20-04-2024,CHICAGO ,,4.0,2.0,No
+307,Employee_68,45.0,Sales,male,30-11-2015,seattle ,25830.74,4.4,4.0,No
+308,Employee_26,,Marketing,MALE,04-09-2024,New york ,35674.58,1.0,4.0,Yes
+309,Employee_197,34.0,IT,Male,06-02-2021,AUSTIN,67676.07,5.1,3.0,No
+310,Employee_176,28.0,Finance,MALE,21-07-2016,NEW YORK,93276.32,,3.0,Yes
